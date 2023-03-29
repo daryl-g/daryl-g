@@ -26,9 +26,9 @@ Well, I am not very active on social media nowadays, but you can always find me 
 
 You can find all of my articles (not including the ones that are currently in my personal blog) here: [![Wakelet](https://img.shields.io/badge/-Wakelet-1DA1F2?style=for-the-badge&logo=wakelet)](https://wakelet.com/darylgouilard)</li>
 
-<li>Starting from early 2020, I initially worked as a video analyst for a semi-professional football (soccer) team based in Brisbane, Australia named <a href = "https://olympicfc.net.au" target = "_blank">Brisbane Olympic</a> under the guidance of the amazing and highly-talented head coach <a href = "https://twitter.com/ben_cahn" target = "_blank">Ben Cahn</a>. My main task was to watch our opposition's matches and compile a report on their style of play at the start of the week.
+<li>Starting from early 2020, I initially worked as a video analyst for a semi-professional football (soccer) team based in Brisbane, Australia named <a href = "https://olympicfc.net.au" target = "_blank">Brisbane Olympic</a> under the guidance of the amazing and highly-talented head coach <a href = "https://twitter.com/ben_cahn" target = "_blank">Ben Cahn</a>. My main tasks were to watch our opposition's matches and compile a report on their style of play at the start of the week.
 
-By mid-2021 and throughout 2022, I was doing more coding and developing as part of my degree, and as a result of that, I took on the role of a data analyst at Olympic with the responsibilities of providing pre-match and post-match visualisations which includes shot maps, passing networks, detailed passing and touch maps, etc. I have also created a data-driven dashboard using Python and Streamlit to allow the coaching staff and players to access the pre-match and post-match stats in their own time.</li>
+By mid-2021 and throughout 2022, I was doing more coding and developing as part of my degree, and as a result of that, I took on the role of a data analyst at Olympic with the responsibility of providing pre-match and post-match visualisations which includes shot maps, passing networks, detailed passing and touch maps, etc. I have also created a data-driven dashboard using Python and Streamlit to allow the coaching staff and players to access the pre-match and post-match stats in their own time.</li>
 
 </ul>
 
