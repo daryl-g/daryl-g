@@ -39,7 +39,18 @@ By mid-2021 and throughout 2022, I was doing more coding and developing as part 
 Directly below this profile, I have pinned a few of the projects that I feel very proud about. Make sure you check it out! Besides from the projects below and in my Repositories tab, I have worked on and contributed to:
 
 <ul>
-<li>-2023 <a href = "https://www.statsperform.com/resource/final-pro-track-presentations-confirmed-for-the-2023-opta-forum/" target = "_blank">Opta Forum</a> proposal: In early 2023, I had the privilege to work on a proposal about "Using Data to Evaluate the Efficiency of Channel Attacks and Defence" to present as a poster at the 2023 Opta Forum. Despite the limitations and obstacles that I faced along the way, I felt very proud to contribute one of my "crazy" ideas to such an important event in the football (soccer) analytics calendar.</li>
+<li>2023 <a href = "https://www.statsperform.com/resource/final-pro-track-presentations-confirmed-for-the-2023-opta-forum/" target = "_blank">Opta Forum</a> proposal: In early 2023, I had the privilege to work on a proposal about "Using Data to Evaluate the Efficiency of Channel Attacks and Defence" to present as a poster at the 2023 Opta Forum. Despite the limitations and obstacles that I faced along the way, I felt very proud to contribute one of my "crazy" ideas to such an important event in the football (soccer) analytics calendar.</li>
+
+</ul>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+<h3 align = "left">✏️ Which projects have I worked on that involves designing?</h3>
+
+<ul>
+  <li><a href = "https://photos.app.goo.gl/gcPqGR54vziArLgUA" target = "_blank">Scouting Handbook 2.0</a>: In 2019, I was inspired by the work of <a href = "https://www.scoutedftbl.com" target = "_blank">ScoutedFtbl</a> to create my own version of the Scouting Handbook for the Vietnamese audience. After the <a href = "https://drive.google.com/file/d/1xn1qP-4kgZj5XqxaKtW0FW7Ym-QDGdIi/view?usp=sharing" target = "_blank">first version</a>, I wanted to create a second edition of the handbook. However, due to time limitation, I can only finish the design for the pages in the handbook without ever write any scout reports. These designs are also inspired by the card designs of Topps Kick, which is a digital football/soccer card collecting game.</li>
+  
+  <li>2022/23 Graphics for <a href = "https://www.facebook.com/SaintsVN" target = "_blank">Southampton FC Vietnam</a>: Currently, I am running a Facebook page that acts as a fanpage for the football/soccer club Southampton FC that targets the Vietnamese audience. As part of our rebranding for the 2022/23 season, I was inspired by the designs of the official Southampton FC social media pages while also adding my own touches and repurposing the designs for its respective purposes. I have not arranged all of my designs into a Behance (or something equivalent) yet, but I will probably do this at the end of the 22/23 season.
 
 </ul>
 
