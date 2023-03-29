@@ -103,7 +103,7 @@ Slightly different to the languages above, here are the languages that I can spe
 </a>
   
 <a>
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=darylgouilard&langs_count=8&theme=radical">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=darylgouilard&langs_count=8&layout=compact&theme=radical">
 </a>
 
 </div>
