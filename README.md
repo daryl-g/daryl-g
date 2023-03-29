@@ -98,8 +98,12 @@ Slightly different to the languages above, here are the languages that I can spe
 
 <div align = "center">
 
-![DarylG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darylgouilard&show_icons=true&count_private=true&theme=radical)
-
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darylgouilard&langs_count=8&layout=compact&theme=radical)
+<a>
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=darylgouilard&show_icons=true&count_private=true&theme=radical">
+</a>
+  
+<a>
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=darylgouilard&langs_count=8&theme=radical">
+</a>
 
 </div>
