@@ -1,6 +1,6 @@
 <h1 align = "center">Hey, welcome to my GitHub profile! 👋</h1>
 
-I am Daryl (Ich heiße Daryl), but I am also known as Đào Hoàng Thái in my home country because it is my birth name! I am a Vietnamese-born (Saigonese, some might say), but I am currently based in Brisbane, Australia as I am pursuing a Computer & Data Science degree at the <a href = "https://www.qut.edu.au" target = "_blank">Queensland University of Technology</a>. My biggest interest at this point in time is sports analytics, especially using and applying data to football (soccer, for yall in the US of A; and sokkah for the Aussies). I also enjoy coding and developing websites and applications through various languages that I learned through my degree. For a coding nerd, I also have a soft spot for coding and game designing, though I have never studied both of those fields. But I can design if needed and I have designed a few things in the past.
+I am Daryl (Ich heiße Daryl), but I am also known as Đào Hoàng Thái in my home country because it is my birth name! I am a Vietnamese-born (Saigonese, some might say), but I am currently based in Brisbane, Australia as I am pursuing a Computer & Data Science degree at the <a href = "https://www.qut.edu.au" target = "_blank">Queensland University of Technology</a>. My biggest interest at this point in time is sports analytics, especially using and applying data 🔣 to football (soccer, for yall in the US of A; and sokkah for the Aussies). I also enjoy coding and developing websites and applications through various languages that I learned through my degree. For a coding nerd, I also have a soft spot for coding and game designing, though I have never studied both of those fields. But I can design if needed and I have designed a few things in the past.
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
@@ -34,7 +34,7 @@ By mid-2021 and throughout 2022, I was doing more coding and developing as part 
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-<h3 align = "left">What projects have I worked on and contributed to?</h3>
+<h3 align = "left">💻 What projects have I worked on and contributed to?</h3>
 
 Directly below this profile, I have pinned a few of the projects that I feel very proud about. Make sure you check it out! Besides from the projects below and in my Repositories tab, I have worked on and contributed to:
 
@@ -45,7 +45,7 @@ Directly below this profile, I have pinned a few of the projects that I feel ver
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-<h3 align = "left">✏️ Which projects have I worked on that involves designing?</h3>
+<h3 align = "left">🎨 Which projects have I worked on that involves designing?</h3>
 
 <ul>
   <li><a href = "https://photos.app.goo.gl/gcPqGR54vziArLgUA" target = "_blank">Scouting Handbook 2.0</a>: In 2019, I was inspired by the work of <a href = "https://www.scoutedftbl.com" target = "_blank">ScoutedFtbl</a> to create my own version of the Scouting Handbook for the Vietnamese audience. After the <a href = "https://drive.google.com/file/d/1xn1qP-4kgZj5XqxaKtW0FW7Ym-QDGdIi/view?usp=sharing" target = "_blank">first version</a>, I wanted to create a second edition of the handbook. However, due to time limitation, I can only finish the design for the pages in the handbook without ever write any scout reports. These designs are also inspired by the card designs of Topps Kick, which is a digital football/soccer card collecting game.</li>
