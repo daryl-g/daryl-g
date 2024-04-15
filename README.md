@@ -30,22 +30,30 @@ You can find all of my articles (not including the ones that are currently in my
 
 By mid-2021 and throughout 2022, I was doing more coding and developing as part of my degree, and as a result of that, I took on the role of a data analyst at Olympic with the responsibility of providing pre-match and post-match visualisations which includes shot maps, passing networks, detailed passing and touch maps, etc. I have also created a data-driven dashboard using Python and Streamlit to allow the coaching staff and players to access the pre-match and post-match stats in their own time.</li>
 
+<li>Late 2023, I briefly worked for <a href = "https://www.melbourneknights.com.au" target = "_blank">Melbourne Knights</a> during their 2023 Australia Cup run as a performance analyst and also with Ben Cahn. Similar to my role at Olympic, I was tasked to deliver opposition reports to the coaching staff using data and video analysis, which helped them prepare for their upcoming match. I ended up contributing to what was considered a historic achievement for the club as they reached the semi-final of the Australia Cup and became the second non-professional team in Australia to do so after the cup was rebranded.</li>
+
+<li>During the same period and into 2024, I also worked as a recruitment analyst for Brisbane Roar with the task to use data and find undervalued players for the club's transfer windows in 2024. While none of my suggestions have been signed (as of yet!), recruitment is a long process and only 10% of the scouted targets actually get considered. So, who knows what might happen?</li>
+
+<li>Currently, I am working as a software developer for Kashy Australia and BSD Robotics in Brisbane. My tasks for each company are quite different since with Kashy, I am responsible for (almost) full-stack development of their customer-facing website and an internal administrator portal. With BSD, I am responsible for creating and managing a cloud-host database and creating a web-host interface that allows the company's administrators and staff to interact with the database.</li>
+
 </ul>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-<h3 align = "left">💻 What projects have I worked on and contributed to?</h3>
+<h3 align = "left">💻 What cool projects have I worked on and contributed to?</h3>
 
 Directly below this profile, I have pinned a few of the projects that I feel very proud about. Make sure you check it out! Besides from the projects below and in my Repositories tab, I have worked on and contributed to:
 
 <ul>
 <li>2023 <a href = "https://www.statsperform.com/resource/final-pro-track-presentations-confirmed-for-the-2023-opta-forum/" target = "_blank">Opta Forum</a> proposal: In early 2023, I had the privilege to work on a proposal about "Using Data to Evaluate the Efficiency of Channel Attacks and Defence" to present as a poster at the 2023 Opta Forum. Despite the limitations and obstacles that I faced along the way, I felt very proud to contribute one of my "crazy" ideas to such an important event in the football (soccer) analytics calendar.</li>
 
+<li><a href = "https://www.linkedin.com/feed/update/urn:li:activity:7165812506156888064/" target = "_blank">QUT VRES 2024 research project</a>: Through QUT’s VRES scheme, I worked on a project that used GPS performance data to predict future injuries using a decision tree machine learning model. The project was supervised by Associate Professor Kerrie Mengersen and I received assistance from Professor Paul Wu and PhD student John Worrall, all of whom are members of QUT’s Centre of Data Science. The result confirmed known assumptions made by performance and fitness coaches: if an athlete accelerates/decelerates more often during a lengthy session where they have to cover a lot of distance, the possibility of getting injured and the severity of the injury increases significantly.</li>
+
 </ul>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-<h3 align = "left">🎨 Which projects have I worked on that involves designing?</h3>
+<h3 align = "left">🎨 Which cool projects have I worked on that involves designing?</h3>
 
 <ul>
   <li><a href = "https://photos.app.goo.gl/gcPqGR54vziArLgUA" target = "_blank">Scouting Handbook 2.0</a>: In 2019, I was inspired by the work of <a href = "https://www.scoutedftbl.com" target = "_blank">ScoutedFtbl</a> to create my own version of the Scouting Handbook for the Vietnamese audience. After the <a href = "https://drive.google.com/file/d/1xn1qP-4kgZj5XqxaKtW0FW7Ym-QDGdIi/view?usp=sharing" target = "_blank">first version</a>, I wanted to create a second edition of the handbook. However, due to time limitation, I can only finish the design for the pages in the handbook without ever write any scout reports. These designs are also inspired by the card designs of Topps Kick, which is a digital football/soccer card collecting game.</li>
