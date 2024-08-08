@@ -34,7 +34,9 @@ By mid-2021 and throughout 2022, I was doing more coding and developing as part 
 
 <li>During the same period and into 2024, I also worked as a recruitment analyst for Brisbane Roar with the task to use data and find undervalued players for the club's transfer windows in 2024. While none of my suggestions have been signed (as of yet!), recruitment is a long process and only 10% of the scouted targets actually get considered. So, who knows what might happen?</li>
 
-<li>Currently, I am working as a software developer for Kashy Australia and BSD Robotics in Brisbane. My tasks for each company are quite different since with Kashy, I am responsible for (almost) full-stack development of their customer-facing website and an internal administrator portal. With BSD, I am responsible for creating and managing a cloud-host database and creating a web-host interface that allows the company's administrators and staff to interact with the database.</li>
+<li>Currently, I am working as a software developer for Kashy Australia and (formerly) BSD Robotics in Brisbane. My tasks for each company are quite different since with Kashy, I am responsible for (almost) full-stack development of their customer-facing website and an internal administrator portal. With BSD, I was responsible for creating and managing a cloud-host database and creating a web-host interface that allows the company's administrators and staff to interact with the database.</li>
+
+<li>I am also a Junior Data Scientist for Entain Australia and New Zealand, having started in August, 2024. While I just started my journey with Entain, I am excited to working with the team and contributing to the work at Entain!</li>
 
 </ul>
 
