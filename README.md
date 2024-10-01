@@ -7,11 +7,11 @@ I am Daryl (Ich heiße Daryl), but I am also known as Đào Hoàng Thái in m
 <h2 align = "left">📫 Where can you find me?</h2>
 Well, I am not very active on social media nowadays, but you can always find me through the links below:
 
--Personal blog: [![Personal Blog Badge](https://img.shields.io/badge/talkingtactics.substack.com-70368d?style=for-the-badge&logo=web&logoColor=white)](https://talkingtactics.substack.com)
+- Personal blog: [![Personal Blog Badge](https://img.shields.io/badge/talkingtactics.substack.com-70368d?style=for-the-badge&logo=web&logoColor=white)](https://talkingtactics.substack.com)
 
--Email: [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daohoang.thai@gmail.com)
+- Email: [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daohoang.thai@gmail.com)
 
--LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daryl-d-9a25751b1/)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daryl-d-9a25751b1/)
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
