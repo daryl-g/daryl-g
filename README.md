@@ -67,8 +67,8 @@ Directly below this profile, I have pinned a few of the projects that I feel ver
 Below are a few programming languages that I have self-learned or acquired through my degree:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
-![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=Numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=Pandas) 
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat&logo=NumPy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas) 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat&logo=Seaborn&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white) 
