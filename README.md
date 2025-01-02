@@ -7,7 +7,7 @@ I am Daryl (Ich heiße Daryl), but I am also known as Đào Hoàng Thái in m
 <h2 align = "left">📫 Where can you find me?</h2>
 Well, I am not very active on social media nowadays, but you can always find me through the links below:
 
-- Portfolio: [![Portfolio Badge](https://img.shields.io/badge/Portfolio-70368d?style=for-the-badge&logo=web&logoColor=white)](https://daryldao.com)
+- Portfolio: [![Portfolio Badge](https://img.shields.io/badge/Portfolio-191970?style=for-the-badge&logo=web&logoColor=white)](https://daryldao.com)
 
 - Personal blog: [![Personal Blog Badge](https://img.shields.io/badge/Talking%20Tactics-70368d?style=for-the-badge&logo=web&logoColor=white)](https://talking-tactics.com)
 
