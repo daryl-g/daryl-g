@@ -12,7 +12,7 @@ I'm Daryl, or Thái Đào if you wanna use my Vietnamese name.
 
 - Email: [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daohoang.thai@gmail.com)
 
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daryl-d)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daryl-thai-dao)
 
 ---
 
