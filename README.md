@@ -15,15 +15,3 @@ I'm Daryl, or Thái Đào if you wanna use my Vietnamese name.
 - LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daryl-thai-dao)
 
 ---
-
-<div align = "center">
-
-<a>
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=daryl-g&show_icons=true&count_private=true&theme=radical">
-</a>
-  
-<a>
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daryl-g&langs_count=8&layout=compact&theme=radical">
-</a>
-
-</div>
